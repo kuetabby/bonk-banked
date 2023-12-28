@@ -1,0 +1,13 @@
+.homepage-container {
+  @apply w-full h-full p-2 px-4 sm:p-4 m-auto;
+  /* @apply w-full h-full m-auto; */
+  max-width: 1440px;
+}
+
+.vision-title {
+  @apply text-3xl font-extrabold bg-primary;
+}
+
+.features-title {
+  @apply text-3xl text-center font-extrabold bg-primary;
+}
