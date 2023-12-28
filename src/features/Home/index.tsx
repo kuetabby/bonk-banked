@@ -13,7 +13,7 @@ import AppLogo from "@/assets/logo-app.png";
 
 import "./style.css";
 
-const tokenAddress = "";
+const tokenAddress = "3LFt84ykkPyb8UmSVgTcQvGYa7g9ePvgg4qaSio7yWey";
 
 interface Props {}
 
